@@ -1,0 +1,209 @@
+
+*{
+	font-family: arial;
+}
+
+table{
+	background-color: write;
+	width: 60%;
+}
+
+a{
+
+	margin: 5px;
+}
+h1{
+	font-size: 40px;
+}
+
+.color1 {
+	font-size: 15px;
+	width: 300px;
+	height: 50px;
+	margin: 0px;
+	background: #66D7D1;
+	color: write;
+	text-align: center;
+	border: 10px
+	
+
+}
+
+.color1:hover{
+	background: #FF637D;
+	transition: all 300ms;
+	cursor: pointer;
+}
+
+.color1:active{
+	background:# #FF637D ;
+	transition:all 300ms ;
+	color: #000;
+}
+.color2 {
+	font-size: 15px;
+	width: 300px;
+	height: 50px;
+	margin: 0px;
+	background: #996699;
+	color: write;
+	text-align: center;
+	border: 10px
+	
+
+}
+
+.color2:hover{
+	background: #FF637D;
+	transition: all 300ms;
+	cursor: pointer;
+}
+
+.color2:active{
+	background:# #FF637D ;
+	transition:all 300ms ;
+	color: #000;
+}
+.color3 {
+	font-size: 15px;
+	width: 300px;
+	height: 50px;
+	background: #669966;
+	color: write;
+	text-align: center;
+	border: 10px
+	
+
+}
+
+.color3:hover{
+	background: #FF637D;
+	transition: all 300ms;
+	cursor: pointer;
+}
+
+.color3:active{
+	background:# #FF637D ;
+	transition:all 300ms ;
+	color: #000;
+}
+.color4 {
+	font-size: 15px;
+	width: 300px;
+	height: 50px;
+	background: orange;
+	color: write;
+	text-align: center;
+	border: 10px
+	
+
+}
+
+.color4:hover{
+	background: #FF637D;
+	transition: all 300ms;
+	cursor: pointer;
+}
+
+.color4:active{
+	background:# #FF637D ;
+	transition:all 300ms ;
+	color: #000;
+}
+.color5 {
+	font-size: 15px;
+	width: 300px;
+	height: 50px;
+	background: #006699;
+	color: write;
+	text-align: center;
+	border: 10px
+	
+
+}
+
+.color5:hover{
+	background: #FF637D;
+	transition: all 300ms;
+	cursor: pointer;
+}
+
+.color5:active{
+	background:# #FF637D ;
+	transition:all 300ms ;
+	color: #000;
+}
+.color6 {
+	font-size: 15px;
+	width: 300px;
+	height: 50px;
+	background: #CCFF33;
+	color: write;
+	text-align: center;
+	border: 10px
+	
+
+}
+
+.color6:hover{
+	background: #FF637D;
+	transition: all 300ms;
+	cursor: pointer;
+}
+
+.color6:active{
+	background:# #FF637D ;
+	transition:all 300ms ;
+	color: #000;
+}
+
+th , td{
+	border: solid 1px black;
+	padding: 20px;
+	border-collapse: collapse;
+}
+thead{
+	background-color: #246355;
+
+}
+section{
+	font-size: 15px
+}
+tr{
+	height: 60px;
+	width: 30px;
+
+}
+td{
+	width: 150px;
+}
+.po{
+
+	background:#CCFF33 ;
+
+}
+.p{
+
+	background: #669966 ;
+
+}
+.ir{
+
+	background: #006699 ;
+
+}
+.ie{
+
+	background: orange ;
+
+}
+.id{
+
+	background: #66D7D1 ;
+
+}
+.ac{
+
+	background: #996699 ;
+
+}
